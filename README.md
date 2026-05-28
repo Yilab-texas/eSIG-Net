@@ -181,11 +181,7 @@ eSIG-Net/
 If you use eSIG-Net in your research, please cite:
 
 ```
-eSIG-Net: Accurate prediction of single-mutation induced perturbations on
-protein interactions using a language model
-Xingxin Pan, Aditya Shrawat, Sidharth Raghavan, Yuntao Yang, Zhao Li,
-W. Jim Zheng, S. Gail Eckhardt, Erxi Wu, Juan I. Fuxman Bass, Daniel F. Jarosz,
-Sidi Chen, Jason H. Huang, Daniel J. McGrail, Nidhi Sahni, and S. Stephen Yi
+Pan X, Shrawat A, Raghavan S, Dong C, Yang Y, Li Z, Zheng WJ, Eckhardt SG, Wu E, Fuxman Bass JI, Jarosz DF, Chen S, McGrail DJ, Sheynkman GM, Huang JH, Sahni N, Yi SS. eSIG-Net: an interaction language model that decodes the protein code of single mutations. Nat Methods. 2026 Apr 29. doi: 10.1038/s41592-026-03086-x. Epub ahead of print. PMID: 42056223.
 ```
 
-**Correspondence:** Xingxin Pan (xingxin.pan@bswhealth.org), Nidhi Sahni (nidhi.sahni.2025@gmail.com), Daniel J. McGrail (mcgraid@ccf.org), or S. Stephen Yi (song.yi@bcm.edu)
+**Correspondence:** Xingxin Pan (xingxin.pan@bswhealth.org), or S. Stephen Yi (song.yi@bcm.edu)
